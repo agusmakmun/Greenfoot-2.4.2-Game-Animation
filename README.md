@@ -3,7 +3,7 @@ Tutorial Greenfoot 2.4.2 Game Animation
 
 Tutorial Greenfoot 2.4.2 Game Animation by Summon Agus - Using Control Keyboard, If Object is Eat another Object, If isAtEdge, music and another conditional.
 
-<center><img src="http://bloggersmart.net/wp-content/uploads/2015/03/GreenFoot-720x340.png" title="Tutorial Greenfoot 2.4.2 Game Animation" alt="Tutorial Greenfoot 2.4.2 Game Animation" /></center>
+<center><img src="http://bloggersmart.net/wp-content/uploads/2015/03/kumbang.png" title="Tutorial Greenfoot 2.4.2 Game Animation" alt="Tutorial Greenfoot 2.4.2 Game Animation" /></center>
 
 Video Tutorial dan download file dapat dilihat disini: http://bloggersmart.net/tutorial-greenfoot-2-4-2-game-animation/
 
